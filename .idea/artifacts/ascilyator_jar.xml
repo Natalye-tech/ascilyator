@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ascilyator:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/ascilyator_jar</output-path>
+    <root id="archive" name="ascilyator.jar">
+      <element id="module-output" name="ascilyator" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/jfree/jfreechart/1.5.3/jfreechart-1.5.3.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/jfree/jcommon/1.0.24/jcommon-1.0.24.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
